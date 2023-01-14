@@ -1,9 +1,12 @@
 Rich Dad Poor Dad by Robert T. Kiyosaki
 
-Instagram Channels  -   CNBC    Bloomberg_Business  BQ_Prime    Money_Control   Business_Insider
-Applications        -   Economic Times
+- Instagram Channels    -   CNBC    Bloomberg_Business  BQ_Prime    Money_Control   Business_Insider
+- Applications          -   Economic Times
 
-Financial Statements consist of 4 parts
+- Stakeholders          -   A stakeholder is any person or entity that has an interest in a business or project, and are impacted by it 
+                            Internal, Connected, External
+
+- Financial Statements consist of 4 parts
 1) Balanced Sheet -     A statement of the assets, liabilities, and Equity(Capital of a business or other organization at a particular point in time), detailing the balance of income and expenditure over the preceding period.
                         Shows what a company owns and what it owes
                         Assets = Equity + Liabilities
@@ -24,7 +27,6 @@ Financial Statements consist of 4 parts
 3) Cash Flow        -   Where the money is being used, Investing Operating Financing
 4) Equity           -   Public/Private(Shark Tank)
 
-Financing vs Investing
 
 
 What is Royalty 
