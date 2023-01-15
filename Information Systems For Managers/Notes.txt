@@ -1,5 +1,19 @@
 IS  -   Information Systems
 MIS -   Management of Information Systems
 
+ERP(Enterprise Resource Planning)
+    SAP is an example of ERP
+    Oracle ERP 
+    Earlier Tally ERP software 
+    TPS -   Transaction Processing Systems
 
-SAP, Oracle
+Data is current database
+Information is Meaningful/Processed Data. Data displayed on Bank Application
+Knowledge is where to spend/handle it
+
+Information System is People component added to IT 
+
+IT Enabled Organization
+Network Organization
+Dispersed Organization
+Knowledge Organization
