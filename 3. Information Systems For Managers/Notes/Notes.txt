@@ -26,7 +26,7 @@ ERP         -   Enterprise resource planning - https://www.youtube.com/watch?v=c
                 TPS         -   Transaction Processing Systems
 1.1         -   Introduction
 Information -   An organised set of seemingly related data
-                Meaningfull/Processed data
+                Meaningful/Processed data
 System      -   Method or process of grouping things together
                 It contains hardware, software, and a set of process to use that hardware/software to achieve a business task
                 Example -   ATM system
@@ -184,7 +184,23 @@ IT Healthcare by SAP                        -   https://www.youtube.com/watch?v=
 
 
 
-CHAPTER-2   -
+CHAPTER-2   -   CONCEPTS OF MANAGEMENT INFORMATION SYSTEMS
+
+Objectives  -   Differentiate between data and information
+                Understand information as a resource
+                Understanding the role of information in organizational functions
+                An overview of types of MIS
+                Understand decision-making with MIS
+                Understand communication within organizations
+SMRT(Singapore MRT) Corporation -   https://www.youtube.com/watch?v=XMWIfJlyOmw
+Case Study  -   Indian Railways -   Passenger Reservation System - Passengers can check the current position on any train, make a reservation from origin to destination anywhere in India, pay for the ticket with any of several means including with a credit card, use a printout of a ticket to board a train
+                                    Freight Operation Information System(FOIS) - Real-time update on where the freight trains are, how many rakes are being used, how many are idle, where they are located and where they are needed.
+                                    Crew Management System(CMS) - Know where the crew are located, when they arrived there and how long they have waited.
+                                                                  The crew payment schedule, their experience with different locomotives, their duty allocation and their training schedule among other information
+                                    Integrated Management Coaching System(ICMS) - View in real time manner where each passenger train is located at any time
+                                                                                  Traffic managers can delay or speed up trains near bottlenecks so that the overall traffic movement is smooth
+Control Office Application(COA) -   Developed by CRIS
+
 
 
 
