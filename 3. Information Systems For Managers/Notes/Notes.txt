@@ -1,7 +1,9 @@
 ASIF RAMPURAWALA
 
+CHAPTER-1   -   ORGANIZATIONS AND INFORMATION SYSTEMS
 
-LECTURE-1   -   organizationS AND INFORMATION SYSTEMS
+SESSION-1
+
 Why do you need to study Information Systems?
 Objectives  -   Overview of modern organization
                 Understanding Information System in organizations
@@ -63,6 +65,8 @@ TYPES OF ORGANIZATIONS  -   1   -   IT Enabled Organization
                                 Knowledge base - Information stored, processed and converted in to a form that can be used by organzations
                                 Example -   PROCESSING OF INFORMATION
                                 Example -   NASA/ISRO, Big 4, Data Scientist/Data Analyst/Data Engineer
+
+SESSION-2
 
 
 
