@@ -200,7 +200,7 @@ Case Study  -   Indian Railways -   Passenger Reservation System - Passengers ca
                                     Integrated Management Coaching System(ICMS) - View in real time manner where each passenger train is located at any time
                                                                                   Traffic managers can delay or speed up trains near bottlenecks so that the overall traffic movement is smooth
 Control Office Application(COA) -   Developed by CRIS
-
+25:20
 
 
 
