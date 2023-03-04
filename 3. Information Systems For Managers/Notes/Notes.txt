@@ -24,6 +24,7 @@ Case Study  -   Tata Motors
 ERP         -   Enterprise resource planning - https://www.youtube.com/watch?v=c9HfNg4a_Og
                 Examples    -   SAP, Oracle ERP, Tally ERP
                 TPS         -   Transaction Processing Systems
+1.1         -   Introduction
 Information -   An organised set of seemingly related data
                 Meaningfull/Processed data
 System      -   Method or process of grouping things together
@@ -35,7 +36,7 @@ What is an Information System   -   A set of interrelated components that collec
                                     Information System are a collection of computers, network, software and people who create, store, modify and distribute data and information in any organization.
                                     A computer based information system(CBIS) is a single set of hardware, software, databases, telecommunications, people, and procedures that are configured to collect, manipulate, store, and process data into information
                                     IT are the artefacts(Made by humans) such as computers, software and network that constitute the IS.
-
+1.2         -   Modern Organization
 TYPES OF ORGANIZATIONS  -   1   -   IT Enabled Organization
                             2   -   Network Organization
                             3   -   Dispersed Organization
@@ -70,11 +71,123 @@ ERP Demo    -   https://www.youtube.com/watch?v=jjyn0QMl0Fc
 IS vs IT    -   IT  -   It is the study, design, implementation, support or management of data within an Information System
                 IS  -   IS refers to an entire set of information: not only the technology invilved, but the people(like stakeholders) and process as well
 BPR -   Business Process Re-engineering -   Align process to system(technology)
+Managing in the Internet Era    -   Organizations have to create a presence on the internet
+                                    Challenge for organizations - find out most relevant and useful data 
+                                    The Internet presents many security challenges
+The IT Interaction Model        -   The Organization
+                                    - Competitive environment
+                                    - Strategy
+                                    - Culture
+                                    - IT Infrastruncture
+
+                                    System Implementation Process
+                                    - Initiation -> Build -> Introduction -> Maintainence
+
+                                    Challenges of managing IS in organisations
+                                    - Organizations do not remain static, they have to change to respond to the environment IS too continously evolves
+                                    Importance to understand how IS and organizations interact
+                                    When an organization builds an information system, 
+                                    - The system may be used or not used, which may lead to positive or negative outcomes(e.g. payroll system)
+
+                                    Outcomes will have
+                                    First order effects
+                                    - Outcomes that arise as a direct consequence of the introduction of a new IS are known as first order effects
+                                    - Increased speed in data processing, increased volume of processing, gain the firm incurs on using IS
+                                    - Sales increase, Customer satisfaction increase, turn-around time improve
+                                    - Example - New server -> electricity bill increase
+                                                Demonitisation Life miserable
+                                                New ATM installed, users going to bank branch decrease
+                                    Second order effects
+                                    - Outcomes that are not immediately visible as they require years to become visible or measurable are known as second order effects
+                                    - HR example: Hiring new employees is easy, retaining them is easy, new incentive schemes can be planned for the employees
+                                    - Example - New ATM installed, Loss of interaction with banks
+                                    Third order effects
+                                    - Large scale benefits of using an IS
+                                    - Example - New ATM installed, Rural banking is now possible. UPI
+
+                                    Whether an IS is successful is largely dependent on 
+                                    - The competitive environment of the firm (E-commerce)
+                                    - The competitive strategy that the firm follows(DELL customised computers)
+                                    - The work culture of the firm(Google)
+                                    Information systems may impact the organization by 
+                                    - Changing work processes and functions
+                                    - Automate manual processes
+                                    - Eliminate some work processes
+                                    Building an IS requires choices to be made - MAKE vs BUY
+                                    - Build the system, if internal skills are available
+                                    - Buy the system 
+                                    Initiation requires understanding the need for the IS
+                                    Analysis is required understanding the specification for the system
+                                    A new system has to be introduced and integrated with the organization
+Challenges for the Managers     -   A manager who has manage the IS of an organisation faces many challenges
+                                    Which system to build?
+                                    - New IS or make IS
+                                    How much to spend on IS?
+                                    - Very difficult to answer. See what competitors are doing 
+                                    What level of capabilities should be created with the IS?
+                                    - Support one department or many departments
+                                    Primary partners or all stakeholders
+                                    Use Internet or Intranet
+                                    How centralised should the service be?
+                                    - The syatem should be both scalable and flexible
+                                    What security levels are requires?
+                                    - Security has to be adequate without being cumbersome and expensive
+                                    What is the technology road map for the organization?
+                                    - Rolling out in phases
+Smart Hospitals                 -   Injury and trip to Hospital
+                                    Registration
+                                    Personal Information to the system
+                                    Assigned a bed, nurse, doctor
+                                    Diagnosis X-Ray, CT Scans 
+                                    Final Diagnosis, Cure, Discharge, Follow up, Insurance
+                                    https://www.youtube.com/watch?v=siCDVpmg4Xs
+Banking Revolution              -   Reason for Revolution
+                                    - Faster work, to face competition, secure data transfer, making banking easy, automate all the branches across the country
+                                    - Team involved: Finacle of Infosys and Boston consulting group
+                                    Solution
+                                    - CORE - "Centralized on-line Real time exchange"
+                                    - Core banking functions include recording of transactions, passbook maintainence, and interest calculations on loans and deposits, balance of payments and withdrawals
+                                    - Banks make these services available across different channels such as ATM, internet banking and branches
+                                    Impact of the Project
+                                    - Operations are carried out fast and customers are happy
+                                    - Operational excellence due to technological advancement
+                                    - Account opening is done on the same day
+                                    - SMS banking available
+                        
+Questions-
+Q1 - A _____ consists of hardware, software, databases, telecommunications, people, and procedures                                                      -   IS
+Q2 - A major task of modern organizations is to process information                                                                                     -   True
+Q3 - First term effects of an introduction of information systems is organizations are designed outcomes that are visible or measurable immediately     -   True
+Q4 - An essential component of modern day organization is an information system                                                                         -   c
+    a - Which binds the organization
+    b - Which enables its interactions with the world through the Internet
+    c - both a and b
+    d only b
 
 
+Reading Suggesttions
+Management Information system new approaches to organization and technology, 14e, Kenneth C.Laudon, Jennie P.Laudon
+Essentials of MIS: Jane P.Laudon, Kenneth C.Laudon
+Management Information Systems, 9e, James O'Brien, George M Marakas, Ramesh Behl
+Principles of Information Systems, 10e, Ralph Stair, George Reynolds
+Management Information Systems, 6e, Effy Oz
+
+Youtube videos
+QR Scan QR code to make cashless payments   -   https://www.youtube.com/watch?v=lPfe7AwNStl
+Stadiums go hi-tech                         -   https://www.youtube.com/watch?v=wL0A38O74lU
+The Power of Data                           -   https://www.youtube.com/watch?v=xq3DVDyshTc
+The future Cars                             -   https://www.youtube.com/watch?v=vtgAx11yOzg
+IT Healthcare by SAP                        -   https://www.youtube.com/watch?v=LjsvkRJrZZA
+
+
+
+
+
+
+CHAPTER-2   -
 
 
 
 
 Can we validate authentic data on the internet?
-Blockchain for Hospital Ayush cards?
+Blockchain for Centralised data for Hospital Ayush cards?
