@@ -1,30 +1,73 @@
 ASIF RAMPURAWALA
 
 
-LECTURE-1   -   ORGANISATIONS AND INFORMATION SYSTEMS
+LECTURE-1   -   organizationS AND INFORMATION SYSTEMS
+Why do you need to study Information Systems?
+Objectives  -   Overview of modern organization
+                Understanding Information System in organizations
+                Managing Information System in organizations
+Case Study  -   Tata Motors
+                Network of over 2000 Vendors
+                IS = Supply Chain Management System
+                Hours to 24 Hours
+                100 Passenger Cars
+                Door Handles
+                1   -   Informs Production Schedule Production plan(How many items Needed)
+                2   -   Supplier will evaluate his own inventory
+                3   -   Supplier Dispatches truck(Shipping invoice)
+                4   -   Receipt of Truck & Cross checking
+                5   -   Quality check on received parts
+                6   -   Alert to accounting system to release payment
+                7   -   Payment system Alerts banks
+ERP         -   Enterprise resource planning - https://www.youtube.com/watch?v=c9HfNg4a_Og
+                Examples    -   SAP, Oracle ERP, Tally ERP
+                TPS         -   Transaction Processing Systems
+Information -   An organised set of seemingly related data
+                Meaningfull/Processed data
+System      -   Method or process of grouping things together
+                It contains hardware, software, and a set of process to use that hardware/software to achieve a business task
+                Example -   ATM system
+IS          -   Information Systems
+MIS         -   Management of Information Systems
+What is an Information System   -   A set of interrelated components that collects, manipulate, store, and disseminate data and information and provide a feedback mechanism to meet an objective 
+                                    Information System are a collection of computers, network, software and people who create, store, modify and distribute data and information in any organization.
+What is an Information System   -   A computer based information system(CBIS) is a single set of hardware, software, databases, telecommunications, people, and procedures that are configured to collect, manipulate, store, and process data into information
+                                    IT are the artefacts(Made by humans) such as computers, software and network that constitute the IS.
+IS vs IT                -   IS involves people(Like stakeholders)
+
+
+TYPES OF ORGANIZATIONS  -   1   -   IT Enabled Organization
+                            2   -   Network Organization
+                            3   -   Dispersed Organization
+                            4   -   Knowledge Organization
+1) IT Enabled Organization -    Organizations are collection of people with shared goals 
+                                Has people or members who are engaged in activities for a common purpose
+                                Organizations have many purpose 
+                                1   -   Make Cars
+                                2   -   Inform citizens
+                                3   -   Ferry passengers
+                                Example     -   SMALL SHOP USING COMPUTER FOR BILLING AND ATTENDANCE
+                                Examples    -   Tata Motors, amazon, walmart, etc
+2) Network Organizations   -    Organisations are collection of people with shared goals
+                                Organisations are on digital networks linking them to others: Internet, Telecommunication
+                                Requires sensing and responding to information flowing on the network
+                                Responding to continuous flow of information also requires the organisation to adjust to meet the challenge
+                                Example -   SMALL SHOP COMMUNICATING TO OUTSIDE WORLD(VENDORS, SUPPLIERS) THROUGH NETWORK
+                                Example -   Schools use video conferencing equipment, Zomato network of restaurants, Ola 
+3) Dispersed Organizations -    Organizations are highly dispersed: they have operations and offices in many cities within the same country and also abroad
+                                Firms disperse their operations to best meet customer need or locate where resource are available
+                                Example -   SMALL SHOP IS DISPERSED IN DIFFERENT AREAS
+                                Example -   Iphone's Global supply chain, MNC's
+4) Knowledge Organizations -    Modern organisations consists of knowledge worker - whose main job is to access and deal with knowledge and information
+                                A major task of modern organizations is to process information 
+                                Knowledge base - Information stored, processed and converted in to a form that can be used by organzations
+                                Example -   PROCESSING OF INFORMATION
+                                Example -   NASA/ISRO, Big 4, Data Scientist/Data Analyst/Data Engineer
 
 
 
 
-IS  -   Information Systems
-MIS -   Management of Information Systems
 
-ERP(Enterprise Resource Planning)
-    SAP is an example of ERP
-    Oracle ERP 
-    Earlier Tally ERP software 
-    TPS -   Transaction Processing Systems
-
-Data is current database
-Information is Meaningful/Processed Data. Data displayed on Bank Application
-Knowledge is where to spend/handle it
-
-Information System is People component added to IT 
-
-IT Enabled Organization
-Network Organization
-Dispersed Organization
-Knowledge Organization
 
 
 Can we validate authentic data on the internet?
